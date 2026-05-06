@@ -119,7 +119,7 @@
     "@zxing/ngx-scanner": "^16.0.0",
     "angular2-uuid": "^1.1.1",
     "angularx-qrcode": "^16.0.0",
-    "axios": "^0.24.0",
+    "axios": "^0.31.1",
     "bignumber.js": "^9.0.0",
     "bip32": "^2.0.6",
     "bip39": "^3.0.3",
